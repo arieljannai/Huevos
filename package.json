@@ -1,0 +1,30 @@
+{
+  "name": "Huevos",
+  "version": "0.0.0",
+  "description": "wait",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Huevos"
+  },
+  "dependencies": {
+    "express": "latest",
+    "connect": "latest",
+    "serve-static": "latest"
+  },
+  "keywords": [
+    "huevos",
+    "chat",
+    "facebook"
+  ],
+  "author": "Ariel Jannai and more",
+  "contributors": [{
+    "name" : "Ariel Jannai",
+    "email" : "arieljannai@gmail.com",
+    "url" : "http://www.facebook.com/ariel.jannai"
+  }],
+  "license": "ISC"
+}
