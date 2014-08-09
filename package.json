@@ -11,9 +11,7 @@
     "url": "Huevos"
   },
   "dependencies": {
-    "express": "latest",
-    "connect": "latest",
-    "serve-static": "latest"
+    "express": "latest"
   },
   "keywords": [
     "huevos",
